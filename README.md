@@ -18,6 +18,7 @@ Contains learning materials/tutorials that support node.js learning.
 ###Modules
 - [Forever](https://blog.nodejitsu.com/keep-a-nodejs-server-up-with-forever/)
   
-  
+###Framework
+. [Electron](http://electron.atom.io/)
   
   
