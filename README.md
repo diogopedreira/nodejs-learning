@@ -22,4 +22,5 @@ Contains learning materials/tutorials that support node.js learning.
 ###Framework
 - [Electron](http://electron.atom.io/)
   - [Developing desktop applications with Electron and React](https://medium.com/@Agro/developing-desktop-applications-with-electron-and-react-40d117d97564#.eljzw5asx)
+   - [Electron Quick Start Guide](http://electron.atom.io/docs/tutorial/quick-start/)
   
