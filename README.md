@@ -16,6 +16,11 @@ Contains learning materials/tutorials that support node.js learning.
 - [Udemy - Server-side Development with NodeJS](https://www.udemy.com/the-complete-node-js-developer-course/)
 - [MongoDB for NodeJS Developers](https://university.mongodb.com/courses/M101JS/about)
   
+###Best Practices & Style Guides
+- [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
+- [Node.js Best Practices](https://blog.risingstack.com/node-js-best-practices/)
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+  
 ###Modules
 - [Forever](https://blog.nodejitsu.com/keep-a-nodejs-server-up-with-forever/)
   
