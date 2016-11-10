@@ -14,6 +14,7 @@ Contains learning materials/tutorials that support node.js learning.
 ###Courses
 - [Coursera - Server-side Development with NodeJS](https://www.coursera.org/learn/server-side-development)
 - [Udemy - Server-side Development with NodeJS](https://www.udemy.com/the-complete-node-js-developer-course/)
+- [MongoDB for NodeJS Developers](https://university.mongodb.com/courses/M101JS/about)
   
 ###Modules
 - [Forever](https://blog.nodejitsu.com/keep-a-nodejs-server-up-with-forever/)
