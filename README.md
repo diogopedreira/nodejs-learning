@@ -25,7 +25,8 @@ Contains learning materials/tutorials that support node.js learning.
 ###Modules
 - [Forever](https://blog.nodejitsu.com/keep-a-nodejs-server-up-with-forever/)
 - [Verror](https://www.npmjs.com/package/verror)
-  
+- [node-inspector](https://github.com/node-inspector/node-inspector)
+
 ###Framework
 - [Electron](http://electron.atom.io/)
   - [Developing desktop applications with Electron and React](https://medium.com/@Agro/developing-desktop-applications-with-electron-and-react-40d117d97564#.eljzw5asx)
