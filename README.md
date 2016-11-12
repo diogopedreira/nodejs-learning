@@ -20,6 +20,7 @@ Contains learning materials/tutorials that support node.js learning.
 - [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
 - [Node.js Best Practices](https://blog.risingstack.com/node-js-best-practices/)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+- [Joyent Node.js](https://www.joyent.com/node-js)
   
 ###Modules
 - [Forever](https://blog.nodejitsu.com/keep-a-nodejs-server-up-with-forever/)
