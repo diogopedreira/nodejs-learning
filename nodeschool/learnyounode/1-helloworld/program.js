@@ -1,8 +1,7 @@
-// ---------------------- learnyounode node 1st exercise
+"use strict";
 
 function helloWorld() {
 
-    "use strict";
     console.log('HELLO WORLD');
 }
 
