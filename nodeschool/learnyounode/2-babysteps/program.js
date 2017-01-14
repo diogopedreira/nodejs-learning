@@ -1,12 +1,11 @@
-// ---------------------- learnyounode 2nd exercise
+"use strict";
 
 const PROCESS_ARGV_ARGUMENTS_START_INDEX = 2;
 
 function convertStringToNumber(value) {
 
-    "use strict";
-    var convertedValue = null;
 
+    var convertedValue = null;
 
     if (value != null && !isNaN(value)) {
 
@@ -18,13 +17,11 @@ function convertStringToNumber(value) {
 
 function areArgumentsValid(args) {
 
-    "use strict";
     return args && args != null && args.length > 0;
 }
 
 function sumArguments(args) {
 
-    "use strict";
     var result = null;
 
     if (areArgumentsValid(args)) {
