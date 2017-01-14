@@ -2,7 +2,7 @@
 
 var fs = require('fs');
 
-const PROCESS_ARGV_ARGUMENTS_START_INDEX = 2;
+const PROCESS_ARGV_ARGUMENTS_FILE_PATH = 2;
 
 function isFilePathValid(filePath) {
 
@@ -25,4 +25,4 @@ function countFileLines(filePath) {
     console.log(lineNumber);
 }
 
-countFileLines(process.argv[PROCESS_ARGV_ARGUMENTS_START_INDEX]);
+countFileLines(process.argv[PROCESS_ARGV_ARGUMENTS_FILE_PATH]);
